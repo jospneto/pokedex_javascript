@@ -3,6 +3,6 @@ Criação de uma pokédex utilzando da linguagem javascript consumindo a pokéAp
 
 ##Linguagens e Tecnologias utilizadas:
    * Java Script <img align="center" alt="JoseNeto-HTML" height="30" width="40"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   * PokéAPI <img align="center" alt="JoseNeto-HTML" height="40" width="50" src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png">
+   * PokéAPI <img align="center" alt="JoseNeto-HTML" height="80" width="80" src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png">
 
 
